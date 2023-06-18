@@ -42,6 +42,10 @@ The dataset can be downloaded from [Stack Overflow's official website](https://i
 
 Contributions to this project are welcome! If you have any suggestions, bug reports, or want to contribute new features, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
+## License
+
+This project is licensed under the [tSurvey License](LICENSE).
+
 ## Contact
 
 For any questions or inquiries, please contact [rifyal](mailto:rifyal.ee.its@gmail.com).
