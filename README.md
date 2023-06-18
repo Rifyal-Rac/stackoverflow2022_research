@@ -33,7 +33,7 @@ The dataset can be downloaded from [Stack Overflow's official website](https://i
 ## Usage
 
 1. Launch Jupyter Notebook or your preferred Python IDE.
-2. Open the `Stack_Overflow_Survey_Analysis.ipynb` notebook.
+2. Open the `Stack_Overflow_2022_Survey_Analysis.ipynb` notebook.
 3. Run the notebook cells to execute the code and generate the analysis.
 4. Follow the instructions provided in the notebook to explore different aspects of the survey data, perform EDA, preprocess the data, and generate insights.
 5. Feel free to modify the code or add additional analysis as per your requirements.
@@ -45,4 +45,5 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 ## Contact
 
 For any questions or inquiries, please contact [rifyal](mailto:rifyal.ee.its@gmail.com).
+The main findings from this project have been summarised in a blogpost on medium.
 
