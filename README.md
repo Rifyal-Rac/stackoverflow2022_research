@@ -45,5 +45,5 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 ## Contact
 
 For any questions or inquiries, please contact [rifyal](mailto:rifyal.ee.its@gmail.com).
-The main findings from this project have been summarised in a blogpost on medium.
+The main findings from this project have been summarised in a blogpost on [medium.](https://medium.com/@rifyalrachmat/in-depth-examination-of-the-journey-towards-achieving-optimum-remuneration-for-developers-50b38532205e)
 
